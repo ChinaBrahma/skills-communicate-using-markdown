@@ -73,6 +73,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
+# This is a message
+Trying to follow the instructions given to learn how to use **github** efficiently.
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
