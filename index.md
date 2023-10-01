@@ -7,7 +7,7 @@
 #### Lion was humbled seeing giraffe bent low and grap it by the neck and killed it for food.
 
 # Image added to the file
-<p><img align="left" src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat" width="30px"></p>
+<img align="left" src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat" width="300%" height="300%">
 
 
 
@@ -17,13 +17,4 @@
 
 
 
-**This is a message**
-
-
-
-
-
-
-
-
-This is a short meaningful commit message that describes changes to the file.
+## This is a short meaningful commit message that describes changes to the file.
