@@ -6,7 +6,8 @@
 
 #### Lion was humbled seeing giraffe bent low and grap it by the neck and killed it for food.
 
-
+# Image added to the file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
